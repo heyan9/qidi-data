@@ -1,4 +1,2 @@
-time,choice,correct,type,tags
-16:20:49,5,1,绘画,高饱和高亮
-16:20:53,5,1,绘画,
-16:20:55,5,1,绘画,
+time,choice,correct,type,positive,negative
+16:23:44,2,1,绘画,,完成度低
